@@ -1094,9 +1094,6 @@ textarea {
     grid-template-columns: 0.35fr 3fr;
   }
 
-  .home__blob {
-    width: 250px;
-  }
 
   .home__social-icon {
     width: 30px;
